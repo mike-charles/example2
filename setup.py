@@ -7,5 +7,5 @@ setup(name='example2',
       author='Mike Charles',
       author_email='mike.charles@example.com',
       license='MIT',
-      packages=['example'],
+      packages=['example2'],
       zip_safe=False)
