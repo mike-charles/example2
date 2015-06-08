@@ -1,9 +1,9 @@
 from setuptools import setup
 
-setup(name='example',
+setup(name='example2',
       version='0.1',
-      description='Example repo',
-      url='https://github.com/mike-charles/example',
+      description='Example repo 2',
+      url='https://github.com/mike-charles/example2',
       author='Mike Charles',
       author_email='mike.charles@example.com',
       license='MIT',
